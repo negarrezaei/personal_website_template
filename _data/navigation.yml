@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "khatere"
+    url: /khatere/
   - title: "CV"
     url: /cv/
   - title: "Courses"
