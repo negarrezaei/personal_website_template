@@ -10,9 +10,9 @@ comments: true
 
 | My lessons |
 | ---------- |
-| barname nevisi |
-| kargah |
-| madar electeriki |
-| karafarini |
-| moadelat |
-| amar va ehtemal |
+| Programming |
+| Computer workshop |
+| Electrical circuit |
+| Entrepreneurship |
+| Differential equations |
+| Statistics and probability |
