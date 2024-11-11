@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : 
 facebook:
-  username               : sauleh.eetemadi
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,8 +107,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Khargooshe Naziloo"
-  avatar           : "/assets/images/bio-photo.jpg"
+  name             : "negar rezaei"
+  avatar           : "/assets/images/f529cc7864c81e3ef25ba5.70250984_-scaled.jpg"
   bio              : I'm the best student.
   location         : "تهران"
   email            : sauleh@gmail.com
