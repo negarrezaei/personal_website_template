@@ -2,8 +2,6 @@
 main:
   - title: "lessons"
     url: /lessons/
-  - title: "khatere"
-    url: /khatere/
   - title: "CV"
     url: /cv/
   - title: "Courses"
