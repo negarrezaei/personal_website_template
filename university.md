@@ -8,7 +8,7 @@ modified: 4-10-2019
 comments: true
 ---
 
-![university](assets\images\1397043116531862014819814.jpg)
+![university](./assets/images/1397043116531862014819814.jpg)
 
 ## Faculty of Computer Engineering
-![Faculty](assets\images\6.jpg)
+![Faculty](./assets/images/6.jpg)
