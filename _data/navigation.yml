@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "university"
+    url: /university/
   - title: "lessons"
     url: /lessons/
   - title: "CV"
