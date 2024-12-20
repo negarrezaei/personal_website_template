@@ -2,10 +2,7 @@
 layout: posts
 title: salam
 ---
-# heading
-![link](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftopnop.info%2F%25D8%25A7%25DA%25AF%25D8%25B1-%25D8%25A8%25D8%25A7-%25D9%2585%25D8%25A7%25D9%2587-%25D8%25A2%25D8%25B3%25D9%2585%25D8%25A7%25D9%2586-%25D8%25AD%25D8%25B1%25D9%2581-%25D8%25A8%25D8%25B2%25D9%2586%25DB%258C-%25D8%25A8%25D9%2587-%25D8%25A7%25D9%2588-%25DA%2586%25D9%2587-%25D9%2585%25DB%258C%25DA%25AF%25D9%2588%25DB%258C%2F&psig=AOvVaw01PAMSWgHX1AtxrsYTx3cz&ust=1731428242943000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjHrpLX1IkDFQAAAAAdAAAAABAQ)
-- We wrote some code
-- We built our website
-- We pushed
+## heading
 
-# this is a header
+
+*Welcome to my web site*
