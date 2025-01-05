@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "MyFinal"
+    url: /MyFinal/
   - title: "university"
     url: /university/
   - title: "lessons"
